@@ -34,7 +34,7 @@ This project segments TrendLine Apparel's customers into value-based groups usin
 
 ## Tools Used
 
-Python 3 · Jupyter Notebook · pandas · NumPy · matplotlib · scikit-learn (StandardScaler, KMeans, silhouette_score)
+Python 3 · Jupyter Notebook · pandas · NumPy · matplotlib · scikit-learn 
 
 ## Author
 
