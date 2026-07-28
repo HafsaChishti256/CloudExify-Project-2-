@@ -1,0 +1,28 @@
+============================================================
+CUSTOMER SEGMENTATION ANALYSIS REPORT
+============================================================
+Generated: 2026-07-28 18:41
+
+Total Customers Analyzed: 800
+
+Segment Distribution
+------------------------------------------------------------
+  High-Value    119 customers  (14.9%)
+  Mid-Value     408 customers  (51.0%)
+  Low-Value     273 customers  (34.1%)
+
+Segment Profiles (average values)
+------------------------------------------------------------
+  High-Value   Recency:   10.4 days   Frequency:  22.0   Monetary: Rs    134,097
+  Mid-Value    Recency:   51.6 days   Frequency:   7.7   Monetary: Rs     25,462
+  Low-Value    Recency:  252.3 days   Frequency:   2.0   Monetary: Rs      3,784
+
+Recommendations
+------------------------------------------------------------
+  High-Value: VIP treatment: early access to new collections, a dedicated support line, and loyalty rewards. These customers already buy often and recently — the priority is retention, not persuasion.
+
+  Mid-Value: Growth potential: targeted cross-sell campaigns (e.g. bundle offers) and a structured loyalty program to nudge Frequency and Monetary upward toward the High-Value profile.
+
+  Low-Value: Win-back campaigns: time-limited discounts and re-engagement emails, since high Recency here signals customers who have likely drifted away rather than customers who were never interested.
+
+============================================================
